@@ -1,4 +1,3 @@
-# YouTube and SoundCloud Song Downloader and Pitch Shifter
 ## How to use:
 1. Open main.exe in dist folder
 2. Enter YouTube or SoundCloud song url
