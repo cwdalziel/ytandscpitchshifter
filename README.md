@@ -3,5 +3,8 @@
 2. Enter YouTube or SoundCloud song url
 3. Enter amount of semitones for song to be shifted (negative numbers to slow song)
 4. File will be placed in downloads folder
-### **Requires ffmpeg or libav**
+## Dependencies:
+### Libraries:
+Use "pip install -r requirements.txt" to download required libraries
+### FFmpeg or libav
 Download instructions can be found here: https://github.com/jiaaro/pydub/#getting-ffmpeg-set-up
