@@ -6,5 +6,5 @@
 ## Dependencies:
 ### Libraries:
 Use "pip install -r requirements.txt" to download required libraries
-### ffmpeg or libav
+### ffmpeg or libav:
 Download instructions: https://github.com/jiaaro/pydub/#getting-ffmpeg-set-up or https://phoenixnap.com/kb/ffmpeg-windows
